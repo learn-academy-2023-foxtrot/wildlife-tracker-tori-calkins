@@ -1,0 +1,2 @@
+class WildlifeTracker < ApplicationRecord
+end
